@@ -20,7 +20,7 @@ click==8.1.8
 coincurve==21.0.0
 colorama==0.4.6
 cryptography==45.0.2
-cytoolz==1.0.1
+cytoolz==1.1.0
 ecdsa==0.19.1
 eth-account==0.13.7
 eth-hash==0.7.1
@@ -39,7 +39,7 @@ fsspec==2025.5.1
 gast==0.6.0
 google-pasta==0.2.0
 greenlet==3.2.2
-grpcio==1.70.0
+grpcio==1.76.0
 h11==0.16.0
 h5py==3.14.0
 hdwallet==3.6.1
@@ -125,7 +125,7 @@ urllib3==2.6.3
 uvicorn==0.34.0
 waitress==3.0.2
 web3==7.12.0
-websockets==13.1
+websockets==16.0
 Werkzeug==3.1.5
 win32_setctime==1.2.0
 wrapt==1.17.2
