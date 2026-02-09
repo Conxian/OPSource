@@ -83,7 +83,7 @@ pycodestyle==2.14.0
 pycparser==2.22
 pycryptodome==3.23.0
 pydantic==2.10.6
-pydantic_core==2.34.1
+pydantic_core==2.41.5
 pyflakes==3.2.0
 Pygments==2.19.1
 PyJWT==2.10.1
